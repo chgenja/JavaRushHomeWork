@@ -1,0 +1,4 @@
+1 Meat 50 1
+2 Food 150 2
+3 Much Food 200 3
+4 Something thing 22 2
